@@ -1,0 +1,2 @@
+Esta app es de fitnes de rutinas lo que contiene una calculadora IMC y una listview
+con algunos componentes y datos preguardados
